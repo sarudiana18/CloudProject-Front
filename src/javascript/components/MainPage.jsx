@@ -10,10 +10,10 @@ function MainPage() {
             <Header />
                 <div className="flex max-w-7xl m-auto px-14 py-24">
                     <div className='w-1/2 pr-5'>
-                        <MessagesList />
+                        <MessagesSubmit />
                     </div>
                     <div className='w-1/2 pl-5'>
-                        <MessagesSubmit />
+                        <MessagesList />
                     </div>
                 </div>
         </div>
