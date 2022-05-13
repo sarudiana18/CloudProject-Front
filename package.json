@@ -2,6 +2,10 @@
   "name": "cloudproject-front",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "8.5.0",
+    "node": "16.14.2"
+  },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.16.4",
