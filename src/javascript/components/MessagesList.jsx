@@ -43,7 +43,7 @@ function MessagesList() {
                                             {message.senderName}
                                         </span>
                                         <span className="font-medium">
-                                            {` sent a mail to ${message.receiverMail}: ${message.messageContent}`}
+                                            {` sent a mail to ${message.receiverMail} with the following direction details: ${message.messageContent}`}
                                         </span>
                                     </p>
                                 </div>
