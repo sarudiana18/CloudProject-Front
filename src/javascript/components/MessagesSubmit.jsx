@@ -1,7 +1,6 @@
 import React from 'react';
 import axios from 'axios';
 import { DEFAULT_MAIL } from '../utils/constants';
-//import { API_URL } from '../../.env';
 
 function MessagesSubmit() {
 
@@ -13,7 +12,7 @@ function MessagesSubmit() {
 
         try {
             let response = await axios.post(
-                `http://localhost:8080/messages/direction`,
+                `${process.env.REACT_APP_API_URL}/messages/direction`,
                 {
                     senderName,
                     senderMail: DEFAULT_MAIL,
