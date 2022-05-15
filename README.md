@@ -71,14 +71,20 @@ Exemplu de request pentru DirectionsAPI: este un request de tipul get, ca in urm
 	DirectionsAPI: Get;
 	MessagesRouter: PUT, POST, GET, GET(/:id), DELETE(/:id), POST (/direction)
 	UtilsRouter: POST (/directionInfo), POST (/send)
+# Link video:
+
+
   
 # Linkuri github:
 https://github.com/sarudiana18/CloudProject-Front - frontend
+
 https://github.com/sarudiana18/CloudProject - backend
 # Referinte:
 https://developers.google.com/maps/documentation/directions/start
+
 https://sendgrid.com/why-sendgrid/
 # Publicare: linkuri
 Backend: https://dashboard.heroku.com/apps/rocky-citadel-84785
+
 Frontend: https://dashboard.heroku.com/apps/lit-headland-74393 
 <img width="960" alt="2022-05-14" src="https://user-images.githubusercontent.com/105063916/168442393-4a498b8a-3650-4327-9d46-daf161d6f3df.png">
