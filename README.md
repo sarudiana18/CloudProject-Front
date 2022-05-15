@@ -73,7 +73,7 @@ Exemplu de request pentru DirectionsAPI: este un request de tipul get, ca in urm
 	UtilsRouter: POST (/directionInfo), POST (/send)
 # Link video:
 
-
+https://www.youtube.com/watch?v=SLAYHI-jBic
   
 # Linkuri github:
 https://github.com/sarudiana18/CloudProject-Front - frontend
